@@ -1,0 +1,41 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #3b3c3c;
+}
+
+h1 {
+  margin: 30px;
+  font-family:Arial, Helvetica, sans-serif cursive;
+  text-shadow: 5px 0 #21252a;
+  font-size: 8rem;
+  color: #7d7d7d;
+}
+
+p {
+  font-size: 2rem;
+  color: #aaaaaa;
+  font-family:Georgia, 'Times New Roman', Times, serif, cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family:Georgia, 'Times New Roman', Times, serif cursive;
+
+}
